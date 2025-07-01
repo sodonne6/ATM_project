@@ -1,0 +1,7 @@
+101,Alice Smith,2002,601.0
+102,Bob Johnson,2345,1500.5
+103,Charlie Brown,3456,2000.75
+104,Diana Prince,4567,2500.0
+105,Ethan Hunt,5678,3000.25
+106,John Pork,3489,1005.0
+107,Joe Miller,4329,0.0
